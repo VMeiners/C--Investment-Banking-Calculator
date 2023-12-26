@@ -1,1 +1,1 @@
-# C--Investment-Banking-Calculator
+# C++ Investment-Banking-Calculator
